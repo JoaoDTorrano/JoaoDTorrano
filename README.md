@@ -4,11 +4,13 @@ Estudante de Engenharia de Software no Inatel (formatura prevista em dezembro de
 
 ## Em destaque
 
-**[BullsApp](https://github.com/C14-Inatel-2026-2/BullsApp)** | app Flutter que controla robôs de sumô da RobotBulls por Bluetooth, feito em grupo.
+**[BullsApp](https://github.com/C14-Inatel-2026-2/BullsApp)** | app Flutter que controla robôs de sumô da RobotBulls por Bluetooth, feito em equipe.
 
-- Responsável pela camada de controllers e por seus testes de unidade, com 100% de cobertura nos 4 controllers.
-- Defeitos de produção encontrados com testes escritos antes da correção.
-- Relatório de testes e cobertura publicado no pipeline Jenkins com Docker.
+- Desenvolvi a camada de controllers do app e os testes de unidade dela, com 100% de cobertura nos 4 controllers.
+- Encontrei defeitos de produção com testes escritos antes da correção.
+- Integração contínua com Jenkins e Docker, com relatório de testes e cobertura a cada build.
+
+**[gasto-publico-brasil](https://github.com/JoaoDTorrano/gasto-publico-brasil)** | análise do gasto público da União, dos Estados e dos Municípios de 1995 a 2026, por governo, com gráficos e dashboard.
 
 **[qa-api-testes](https://github.com/JoaoDTorrano/qa-api-testes)** | testes de API com pytest e Postman, com plano de teste, casos de teste e modelo de relato de bug.
 
